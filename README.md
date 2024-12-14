@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oi! Eu sou o João, mas me chamam de Krawstr na internet. <br>Sou estudante de desenvolvimento Web e estudo no Instituto Proa💙.</p>
+<p align="left">Oi! Eu sou o João, mas me chamam de Krawstr na internet. <br>Sou estudante de desenvolvimento Web e ex aluno do Instituto Proa💙.</p>
 
 ###
 
