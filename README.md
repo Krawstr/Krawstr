@@ -1,55 +1,46 @@
-<h1 align="left">👨‍💻About Me</h1>
+<h1 align="center">👋 Olá, eu sou o João</h1>
 
-###
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=7449FF&center=true&vCenter=true&width=435&lines=Bem+Vindo!;Pode+me+chamar+de+Krawstr!" alt="Typing SVG" /></a>
+</p>
 
-<p align="left">Oi! Eu sou o João, mas me chamam de Krawstr na internet. <br>Sou estudante de desenvolvimento Web e ex aluno do Instituto Proa💙.</p>
+---
 
-###
+## 🧠 Sobre mim
 
-<h2 align="left">💼 Techs</h2>
+- 💻 Estudante focado em **Python, Web e Análise de Dados**
+- 📚 Aprendizado contínuo e evolução constante como dev
+- 🚀 Criando projetos próprios e acadêmicos
+- 🎯 Sempre buscando soluções criativas e eficientes
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
+## 💡 Tecnologias que uso
 
-###
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
 
-  
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
+---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krawstr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krawstr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krawstr&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Krawstr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krawstr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-###
+---
 
-<h2 align="left">🌐Linkedin</h2>
+## 🌐 Contato & Portfólio
 
-###
+<p align="center">
+  🔗 <a href="https://my-portfolio-omega-one-26.vercel.app/" target="_blank">Acesse meu portfólio</a> <br/>
+  📬 <a href="mailto:joaovictorseverianogram@gmail.com">joaovictorseverianogram@gmail.com</a>
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joao-vs-grama/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:4E00EC&height=100&section=footer"/>
+</p>
